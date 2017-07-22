@@ -5,5 +5,5 @@
 main()
 {
     printf("Hello World and others still\n");
-    printf("This is the second line, and then some...\n");
+    printf("This is the second line, and then poop...\n");
 }
