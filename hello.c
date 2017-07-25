@@ -2,7 +2,7 @@
 
 #include<stdio.h>
 
-main()
+int main()
 {
     printf("Hello World and others still and poopidoop!\n");
 }
